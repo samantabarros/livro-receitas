@@ -1,3 +1,3 @@
-# Livro de receitas :man cook
+# Livro de receitas 👨‍🍳
 
-Olá, bem vindo ao livro de receitas! :save
+Olá, bem vindo ao livro de receitas! 👋
